@@ -2,8 +2,7 @@
 
 ## 🚀 About Me  
 I'm a passionate **Artificial Intelligence & Machine Learning** student with a strong interest in **building intelligent applications**. I enjoy working with **Python, Machine Learning, and Full-Stack Development**, and I'm always exploring new technologies to enhance my skills.  
-
-- 🔭 Currently working on: **Movie Recommendation System**  
+ 
 - 🌱 Learning: **Advanced AI Concepts & App Development**  
 - 💡 Interested in: **AI, ML, Cross-Platform App Development, and Cloud Computing**  
 
@@ -15,10 +14,6 @@ I'm a passionate **Artificial Intelligence & Machine Learning** student with a s
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%231572B6.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)  
-
-## 🔗 Connect with Me  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
 
 ## 📊 GitHub Stats  
 ![Mowleen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
