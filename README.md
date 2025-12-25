@@ -19,9 +19,6 @@
   </a>
 </p>
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="divider"/>
-
 </div>
 
 ---
@@ -57,30 +54,12 @@ me.say_hi()
 
 ### 🎯 Quick Highlights
 
-<table>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-      <br><b>82% Accuracy</b>
-      <br>ML Model Performance
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/code.png" width="60"/>
-      <br><b>10+ Projects</b>
-      <br>AI & Full-Stack
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/trophy.png" width="60"/>
-      <br><b>500+ Participants</b>
-      <br>Hackathon Competitor
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.icons8.com/color/96/000000/database.png" width="60"/>
-      <br><b>10K+ Records</b>
-      <br>Data Processed
-    </td>
-  </tr>
-</table>
+| 🎖️ Achievement | 📊 Metric |
+|---------------|-----------|
+| 🤖 **ML Model Accuracy** | 82% |
+| 💻 **Projects Completed** | 10+ AI & Full-Stack |
+| 🏆 **Hackathon Participants** | 500+ Competed Against |
+| 📁 **Data Processed** | 10,000+ Records |
 
 </div>
 
