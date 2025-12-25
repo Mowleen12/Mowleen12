@@ -19,12 +19,8 @@
   </a>
 </p>
 
-<!-- Interactive Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mowleen12/Mowleen12/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mowleen12/Mowleen12/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mowleen12/Mowleen12/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="divider"/>
 
 </div>
 
@@ -260,18 +256,6 @@ Personalized recommendation system for health and lifestyle insights.
 
 <!-- Streak Stats -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mowleen12&theme=radical&hide_border=true&background=141321&stroke=FF006E&ring=F72798&fire=FF006E&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🎵 Spotify Playing Now
-
-<div align="center">
-
-[![Spotify](https://novatorem-mowleen12.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-<i>🎧 What I'm currently jamming to while coding!</i>
 
 </div>
 
